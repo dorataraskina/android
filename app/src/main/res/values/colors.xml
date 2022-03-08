@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#5E55A0</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_background">#171D22</color>
+    <color name="status_bar_color">#00000066</color>
+    <color name="blue">#32DAFF</color>
+    <color name="button_gray_stroke">#E8E8EC</color>
+    <color name="button">#5E55A0</color>
+    <color name="dark_blue">#2347FF</color>
+    <color name="gray_text">#878789</color>
+    <color name="green">#84FF0A</color>
+    <color name="mint">#97FFE7</color>
+    <color name="off_color">#F4A022</color>
+    <color name="on_color">#17503F</color>
+    <color name="orange">#FF8899</color>
+    <color name="red">#FF0000</color>
+    <color name="violet">#BF7FFF</color>
+    <color name="yellow">#FFF6C4</color>
+    <array name="colors">
+        <item>@color/red</item>
+        <item>@color/orange</item>
+        <item>@color/yellow</item>
+        <item>@color/green</item>
+        <item>@color/mint</item>
+        <item>@color/blue</item>
+        <item>@color/dark_blue</item>
+        <item>@color/violet</item>
+    </array>
+</resources>

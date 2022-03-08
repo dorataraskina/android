@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_device4.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\ic_device4.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_device2.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\ic_device2.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_device2.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\device2.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_temperature.xml.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\temperature.xml"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_device0.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\ic_device0.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_map.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_device4.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\device4.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\layout_item_device.xml.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\layout\\item_device.xml"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_close.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\ic_close.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_white_background.xml.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\white_background.xml"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_device1.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\device1.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_device4_selected.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\ic_device4_selected.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_device2_selected.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\ic_device2_selected.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_device3.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\device3.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_device3_selected.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\ic_device3_selected.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_circle.xml.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_device1_selected.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\ic_device1_selected.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_device3.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\ic_device3.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_arrow.xml.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\ic_arrow.xml"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_background.xml.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_device1.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\ic_device1.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_device0.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\device0.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_device_selected.png.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\ic_device_selected.png"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\merged_res\\debug\\drawable_temperature_selected.xml.flat",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\drawable\\temperature_selected.xml"
+    }
+]

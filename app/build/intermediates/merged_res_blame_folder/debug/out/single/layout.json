@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_device.xml",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\layout\\item_device.xml"
+    },
+    {
+        "merged": "U:\\Android-Kotlin\\Android-Kotlin\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "U:\\Android-Kotlin\\Android-Kotlin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

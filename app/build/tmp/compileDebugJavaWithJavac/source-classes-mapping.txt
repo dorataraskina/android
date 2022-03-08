@@ -1,0 +1,6 @@
+com/ws/smarthouse/BuildConfig.java
+ com.ws.smarthouse.BuildConfig
+com/ws/smarthouse/databinding/ItemDeviceBinding.java
+ com.ws.smarthouse.databinding.ItemDeviceBinding
+com/ws/smarthouse/databinding/ActivityMainBinding.java
+ com.ws.smarthouse.databinding.ActivityMainBinding

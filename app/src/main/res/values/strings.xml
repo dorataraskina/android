@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SmartHouse</string>
+    <array name="devices">
+        <item>Освежитель воздуха Dyson</item>
+        <item>Кондиционер LG</item>
+        <item>Робот-пылесос Xiaomi</item>
+        <item>Телевизор Samsung</item>
+        <item>Умная лампочка Яндекс</item>
+    </array>
+</resources>
